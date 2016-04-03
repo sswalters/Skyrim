@@ -1,0 +1,165 @@
+[04/02/2016 - 08:53:33PM] Papyrus log opened (PC)
+[04/02/2016 - 08:53:33PM] Function GetEffectMagnitudes in the empty state on type Ingredient does not exist. Function will not be flagged as callable from tasklets.
+[04/02/2016 - 08:53:33PM] Update budget: 1.200000ms (Extra tasklet budget: 1.200000ms, Load screen budget: 500.000000ms)
+[04/02/2016 - 08:53:33PM] Memory page: 128 (min) 512 (max) 76800 (max total)
+[04/02/2016 - 08:53:35PM] Error: Unable to bind script TrapBear to TweakTraps (4600C515) because their base types do not match
+[04/02/2016 - 08:53:35PM] Error: Unable to bind script traptriggerbase to TweakTraps (4600C515) because their base types do not match
+[04/02/2016 - 08:53:35PM] Cannot open store for class "SF_TweakP1Hangout_02017201", missing file?
+[04/02/2016 - 08:53:35PM] Error: Unable to bind script SF_TweakP1Hangout_02017201 to  (46017201) because their base types do not match
+[04/02/2016 - 08:53:35PM] Cannot open store for class "SF_TweakP1Pose_02017788", missing file?
+[04/02/2016 - 08:53:35PM] Error: Unable to bind script SF_TweakP1Pose_02017788 to  (46017788) because their base types do not match
+[04/02/2016 - 08:53:40PM] Error: Unable to bind script AnvilDencheckjusticar to alias Justicar on quest AnvilDenQuest (0A01ED3C) because their base types do not match
+[04/02/2016 - 08:53:40PM] Warning: Property T01ConclusionScene on script QF_T01_00023B6C attached to T01 (00023B6C) cannot be initialized because the script no longer contains that property
+[04/02/2016 - 08:53:40PM] Error: Property CiceroAlias on script uskpretroactive204script attached to USKPRetroactive204 (05012C3A) cannot be bound because alias CiceroEndGameAlias on quest DarkBrotherhood (0001EA5C) is not the right type
+[04/02/2016 - 08:53:40PM] Error: Property Initiate2Alias on script uskpretroactive204script attached to USKPRetroactive204 (05012C3A) cannot be bound because alias Initiate2Alias on quest DarkBrotherhood (0001EA5C) is not the right type
+[04/02/2016 - 08:53:40PM] Error: Property Initiate1Alias on script uskpretroactive204script attached to USKPRetroactive204 (05012C3A) cannot be bound because alias Initiate1Alias on quest DarkBrotherhood (0001EA5C) is not the right type
+[04/02/2016 - 08:53:40PM] VM is freezing...
+[04/02/2016 - 08:53:40PM] VM is frozen
+[04/02/2016 - 08:53:41PM] Reverting game...
+[04/02/2016 - 08:53:41PM] Error: Unable to bind script SF_TweakP1Hangout_02017201 to  (46017201) because their base types do not match
+[04/02/2016 - 08:53:41PM] Error: Unable to bind script TrapBear to TweakTraps (4600C515) because their base types do not match
+[04/02/2016 - 08:53:41PM] Error: Unable to bind script traptriggerbase to TweakTraps (4600C515) because their base types do not match
+[04/02/2016 - 08:53:41PM] Error: Unable to bind script SF_TweakP1Pose_02017788 to  (46017788) because their base types do not match
+[04/02/2016 - 08:53:41PM] Error: Unable to bind script AnvilDencheckjusticar to alias Justicar on quest AnvilDenQuest (0A01ED3C) because their base types do not match
+[04/02/2016 - 08:53:41PM] Error: Property CiceroAlias on script uskpretroactive204script attached to USKPRetroactive204 (05012C3A) cannot be bound because alias CiceroEndGameAlias on quest DarkBrotherhood (0001EA5C) is not the right type
+[04/02/2016 - 08:53:41PM] Error: Property Initiate2Alias on script uskpretroactive204script attached to USKPRetroactive204 (05012C3A) cannot be bound because alias Initiate2Alias on quest DarkBrotherhood (0001EA5C) is not the right type
+[04/02/2016 - 08:53:41PM] Error: Property Initiate1Alias on script uskpretroactive204script attached to USKPRetroactive204 (05012C3A) cannot be bound because alias Initiate1Alias on quest DarkBrotherhood (0001EA5C) is not the right type
+[04/02/2016 - 08:53:41PM] Warning: Property T01ConclusionScene on script QF_T01_00023B6C attached to T01 (00023B6C) cannot be initialized because the script no longer contains that property
+[04/02/2016 - 08:53:53PM] Loading game...
+[04/02/2016 - 08:53:54PM] Warning: Function Critter.KickOffOnStart.OnUpdate in stack frame 0 in stack 1067361 differs from the in-game resource files - using version from save
+[04/02/2016 - 08:53:54PM] Warning: Function Firefly..OnStart in stack frame 1 in stack 1067361 differs from the in-game resource files - using version from save
+[04/02/2016 - 08:53:54PM] Warning: Function Critter.KickOffOnStart.OnUpdate in stack frame 0 in stack 2493951 differs from the in-game resource files - using version from save
+[04/02/2016 - 08:53:54PM] Warning: Function Firefly..OnStart in stack frame 1 in stack 2493951 differs from the in-game resource files - using version from save
+[04/02/2016 - 08:53:54PM] Warning: Function Critter.KickOffOnStart.OnUpdate in stack frame 0 in stack 2493959 differs from the in-game resource files - using version from save
+[04/02/2016 - 08:53:54PM] Warning: Function Firefly..OnStart in stack frame 1 in stack 2493959 differs from the in-game resource files - using version from save
+[04/02/2016 - 08:53:54PM] Warning: Function dragonactorscript.alive.OnDeath in stack frame 0 in stack 1335762 differs from the in-game resource files - using version from save
+[04/02/2016 - 08:53:54PM] Warning: Function dragonactorscript.deadAndWaiting.onBeginState in stack frame 2 in stack 1335762 differs from the in-game resource files - using version from save
+[04/02/2016 - 08:53:54PM] Warning: Function fxDustDropRandomSCRIPT..OnLoad in stack frame 0 in stack 1277997 doesn't exist in the in-game resource files - using version from save
+[04/02/2016 - 08:53:54PM] Warning: Function Critter.KickOffOnStart.OnUpdate in stack frame 0 in stack 2493926 differs from the in-game resource files - using version from save
+[04/02/2016 - 08:53:54PM] Warning: Function Firefly..OnStart in stack frame 1 in stack 2493926 differs from the in-game resource files - using version from save
+[04/02/2016 - 08:53:54PM] Warning: Function Critter.KickOffOnStart.OnUpdate in stack frame 0 in stack 817309 differs from the in-game resource files - using version from save
+[04/02/2016 - 08:53:54PM] Warning: Function Firefly..OnStart in stack frame 1 in stack 817309 differs from the in-game resource files - using version from save
+[04/02/2016 - 08:53:54PM] VM is thawing...
+[04/02/2016 - 08:53:54PM] 
+[04/02/2016 - 08:53:54PM] =====Wet and Cold is refreshing itself and searching for addons. Any errors below are harmless.=====
+[04/02/2016 - 08:53:54PM] 
+[04/02/2016 - 08:53:54PM] Error: File "Complete Crafting Overhaul_Remade.esp" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[_WetQuest (31000D63)]._wetquestscript.Maintenance() - "_WetQuestScript.psc" Line 464
+	[alias Player on quest _WetQuest (31000D63)]._wetplayeralias.OnPlayerLoadGame() - "_WetPlayerAlias.psc" Line 6
+[04/02/2016 - 08:53:54PM] Error: File "1nivWICCloaksCRAFT.esp" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[_WetQuest (31000D63)]._wetquestscript.CheckWiCPlugins() - "_WetQuestScript.psc" Line 415
+	[_WetQuest (31000D63)]._wetquestscript.CheckMainCloakPlugins() - "_WetQuestScript.psc" Line 443
+	[_WetQuest (31000D63)]._wetquestscript.Maintenance() - "_WetQuestScript.psc" Line 494
+	[alias Player on quest _WetQuest (31000D63)]._wetplayeralias.OnPlayerLoadGame() - "_WetPlayerAlias.psc" Line 6
+[04/02/2016 - 08:53:54PM] Error: File "WetandCold - Holidays.esp" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[_WetQuest (31000D63)]._wetquestscript.Maintenance() - "_WetQuestScript.psc" Line 557
+	[alias Player on quest _WetQuest (31000D63)]._wetplayeralias.OnPlayerLoadGame() - "_WetPlayerAlias.psc" Line 6
+[04/02/2016 - 08:53:54PM] Error: File "Chesko_Frostfall.esp" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[_WetQuest (31000D63)]._wetquestscript.Maintenance() - "_WetQuestScript.psc" Line 569
+	[alias Player on quest _WetQuest (31000D63)]._wetplayeralias.OnPlayerLoadGame() - "_WetPlayerAlias.psc" Line 6
+[04/02/2016 - 08:53:54PM] Error: File "Unofficial Skyrim Patch.esp" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[USLEEPVersionTracking (0500F458)].USLEEP_VersionTrackingScript.ProcessRetroScripts() - "USLEEP_VersionTrackingScript.psc" Line 21
+	[alias Player on quest USLEEPVersionTracking (0500F458)].USLEEP_VersionTrackingAliasScript.OnPlayerLoadGame() - "USLEEP_VersionTrackingAliasScript.psc" Line 6
+[04/02/2016 - 08:53:54PM] Error: File "Unofficial Dawnguard Patch.esp" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[USLEEPVersionTracking (0500F458)].USLEEP_VersionTrackingScript.ProcessRetroScripts() - "USLEEP_VersionTrackingScript.psc" Line 25
+	[alias Player on quest USLEEPVersionTracking (0500F458)].USLEEP_VersionTrackingAliasScript.OnPlayerLoadGame() - "USLEEP_VersionTrackingAliasScript.psc" Line 6
+[04/02/2016 - 08:53:54PM] Error: File "Unofficial Hearthfire Patch.esp" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[USLEEPVersionTracking (0500F458)].USLEEP_VersionTrackingScript.ProcessRetroScripts() - "USLEEP_VersionTrackingScript.psc" Line 29
+	[alias Player on quest USLEEPVersionTracking (0500F458)].USLEEP_VersionTrackingAliasScript.OnPlayerLoadGame() - "USLEEP_VersionTrackingAliasScript.psc" Line 6
+[04/02/2016 - 08:53:54PM] Error: File "Unofficial Dragonborn Patch.esp" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[USLEEPVersionTracking (0500F458)].USLEEP_VersionTrackingScript.ProcessRetroScripts() - "USLEEP_VersionTrackingScript.psc" Line 33
+	[alias Player on quest USLEEPVersionTracking (0500F458)].USLEEP_VersionTrackingAliasScript.OnPlayerLoadGame() - "USLEEP_VersionTrackingAliasScript.psc" Line 6
+[04/02/2016 - 08:53:54PM] Error: File "Campfire.esm" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[_WetQuest (31000D63)]._wetquestscript.Maintenance() - "_WetQuestScript.psc" Line 583
+	[alias Player on quest _WetQuest (31000D63)]._wetplayeralias.OnPlayerLoadGame() - "_WetPlayerAlias.psc" Line 6
+[04/02/2016 - 08:53:54PM] Error: File "iNeed.esp" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[_WetQuest (31000D63)]._wetquestscript.Maintenance() - "_WetQuestScript.psc" Line 590
+	[alias Player on quest _WetQuest (31000D63)]._wetplayeralias.OnPlayerLoadGame() - "_WetPlayerAlias.psc" Line 6
+[04/02/2016 - 08:53:54PM] Error: File "getSnowy.esp" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[_WetQuest (31000D63)]._wetquestscript.Maintenance() - "_WetQuestScript.psc" Line 595
+	[alias Player on quest _WetQuest (31000D63)]._wetplayeralias.OnPlayerLoadGame() - "_WetPlayerAlias.psc" Line 6
+[04/02/2016 - 08:53:54PM] Error: File "Immersive Citizens - AI Overhaul.esp" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[_WetQuest (31000D63)]._wetquestscript.Maintenance() - "_WetQuestScript.psc" Line 606
+	[alias Player on quest _WetQuest (31000D63)]._wetplayeralias.OnPlayerLoadGame() - "_WetPlayerAlias.psc" Line 6
+[04/02/2016 - 08:53:54PM] Error: File "EFFCore.esm" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[_WetQuest (31000D63)]._wetquestscript.Maintenance() - "_WetQuestScript.psc" Line 619
+	[alias Player on quest _WetQuest (31000D63)]._wetplayeralias.OnPlayerLoadGame() - "_WetPlayerAlias.psc" Line 6
+[04/02/2016 - 08:53:54PM] =======================================[ VioLens - A Killmove Mod: Start ]========================================
+[04/02/2016 - 08:53:54PM]                                                                                                                   
+[04/02/2016 - 08:53:54PM]                 VioLens is now performing a compatibility check. Papyrus warnings about missing or                
+[04/02/2016 - 08:53:54PM]                        unloaded files may follow. This is normal and should be ignored.   		                 
+[04/02/2016 - 08:53:54PM]                                                                                                                   
+[04/02/2016 - 08:53:54PM] =======================================[ VioLens - A Killmove Mod: Start ]========================================
+[04/02/2016 - 08:53:54PM] ===========================================[ VioLens - A Killmove Mod ]===========================================
+[04/02/2016 - 08:53:54PM]                                                                                                                   
+[04/02/2016 - 08:53:54PM]                                               JContainers Installed.                                              
+[04/02/2016 - 08:53:54PM]                                                                                                                   
+[04/02/2016 - 08:53:54PM] ===========================================[ VioLens - A Killmove Mod ]===========================================
+[04/02/2016 - 08:53:54PM] Error: File "CombatDramaOverhaul.esp" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[alias Player on quest VL_Player (45023F14)].VL_Player.VLLoadGame() - "VL_Player.psc" Line 59
+	[alias Player on quest VL_Player (45023F14)].VL_Player.OnPlayerLoadGame() - "VL_Player.psc" Line 25
+[04/02/2016 - 08:53:54PM] ===========================================[ VioLens - A Killmove Mod ]===========================================
+[04/02/2016 - 08:53:54PM]                                                                                                                   
+[04/02/2016 - 08:53:54PM]                                        Combat Drama Overhaul Not Installed.                                       
+[04/02/2016 - 08:53:54PM]                                                                                                                   
+[04/02/2016 - 08:53:54PM] ===========================================[ VioLens - A Killmove Mod ]===========================================
+[04/02/2016 - 08:53:54PM] InitWidgetLoader()
+[04/02/2016 - 08:53:54PM] ========== Auto Unequip Ammo: Scanning for supported plugins...
+[04/02/2016 - 08:53:54PM] ========== ERRORS RELATED TO MISSING FILES SHOULD BE IGNORED!
+[04/02/2016 - 08:53:54PM] Error: File "XFLMain.esm" does not exist or is not currently loaded.
+stack:
+	<unknown self>.Game.GetFormFromFile() - "<native>" Line ?
+	[AUA (1100C6C2)].AUAQuestScript.GameLoaded() - "AUAQuestScript.psc" Line 40
+	[AUA (1100C6C2)].AUAQuestScript.OnUpdate() - "AUAQuestScript.psc" Line 73
+[04/02/2016 - 08:53:54PM] ========== Auto Unequip Ammo: Scan complete.
+[04/02/2016 - 08:53:54PM] ========================================[ VioLens - A Killmove Mod: End ]=========================================
+[04/02/2016 - 08:53:54PM]                                                                                                                   
+[04/02/2016 - 08:53:54PM]                                       VioLens compatibility check complete.                                       
+[04/02/2016 - 08:53:54PM]                                                                                                                   
+[04/02/2016 - 08:53:54PM] ========================================[ VioLens - A Killmove Mod: End ]=========================================
+[04/02/2016 - 08:53:54PM] Error: Cannot cast from None to SKI_WidgetBase[]
+stack:
+	[iHUDControlQuest (15000805)].ihudwidgetscript.initialize() - "iHUDWidgetScript.psc" Line 38
+	[iHUDControlQuest (15000805)].ihudcontrolscript.startUp() - "iHUDControlScript.psc" Line 93
+	[iHUDMaintainanceQuest (15002853)].iHUDMaintainanceScript.startUp() - "iHUDMaintainanceScript.psc" Line 20
+	[alias PlayerAlias on quest iHUDMaintainanceQuest (15002853)].iHUDLoadScript.OnPlayerLoadGame() - "iHUDLoadScript.psc" Line 11
+[04/02/2016 - 08:53:55PM] [sic_configmenuscript <SIC_ConfigMenuQuest (190C4C3A)>]: Loaded user settings. 
+[04/02/2016 - 08:53:55PM] 
+[04/02/2016 - 08:53:55PM] =====Wet and Cold is finished refreshing itself and searching for addons!=====
+[04/02/2016 - 08:53:55PM] 
+[04/02/2016 - 08:53:58PM] Error: Object reference has no 3D
+stack:
+	[ (0001E68C)].Sound.Play() - "<native>" Line ?
+	[ (00033059)].fxDustDropRandomSCRIPT.OnLoad() - "<savegame>" Line ?
+[04/02/2016 - 08:54:13PM] Error: Object reference has no 3D
+stack:
+	[ (0001E68C)].Sound.Play() - "<native>" Line ?
+	[ (00033059)].fxDustDropRandomSCRIPT.OnLoad() - "<savegame>" Line ?
